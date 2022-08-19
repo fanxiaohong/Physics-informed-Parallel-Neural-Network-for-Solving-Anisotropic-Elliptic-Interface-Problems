@@ -17,3 +17,6 @@ Key Words: anisotropic, elliptic interface, neural network, first-order system
 图 1  提出的物理信息引导的求解各向异性椭圆界面问题的并行神经网络流程图   
 ![image](https://user-images.githubusercontent.com/48355877/185525887-49977ddf-dcd2-4e26-8367-275806ebe8f1.png)   
 图 2  数值实验结果. (a) 训练采样点；(b) 测试采样点；(c) 未降低解的正则性要求且以均方差为损失的方法的误差图；(d) 本文方法的误差图。
+
+### Contact  
+The code is provided to support reproducible research. If the code is giving syntax error in your particular python configuration or some files are missing then you may open an issue or directly email me at fanxiaohong@smail.xtu.edu.cn
